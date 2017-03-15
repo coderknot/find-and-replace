@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FindAndReplaceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-03-15T18:19:58" hostname="Epicodus-6D.local" time="0.001">
+<testsuite name="FindAndReplaceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-03-15T20:37:58" hostname="Epicodus-6D.local" time="0.002">
   <properties/>
-  <testcase name="wordReplace_returnsPhrase_Phrase" classname="FindAndReplaceTest" time="0.001"/>
-  <testcase name="wordReplace_returnsWord_Word" classname="FindAndReplaceTest" time="0.0"/>
+  <testcase name="wordReplace_returnsPhraseWithReplacement_Phrase" classname="FindAndReplaceTest" time="0.001"/>
+  <testcase name="wordReplace_returnsSingleWord_Word" classname="FindAndReplaceTest" time="0.0"/>
+  <testcase name="wordReplace_returnsPhraseWithMoreReplacement_Phrase" classname="FindAndReplaceTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
